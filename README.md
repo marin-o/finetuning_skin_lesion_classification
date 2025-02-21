@@ -1,6 +1,7 @@
 # README: Skin Lesion Classification with HAM10000 Dataset
 
-This repository contains code for training and evaluating a deep learning model for skin lesion classification using the HAM10000 dataset. The model is implemented using PyTorch, and the evaluation includes metrics like accuracy, F1 score, ROC AUC, and more. The following functions are available in the script:
+This repository contains code for training and evaluating a deep learning model for skin lesion classification using the HAM10000 dataset. The models are implemented from PyTorch, and the evaluation includes metrics like accuracy, F1 score, ROC AUC, and more. The following functions are available in the repository:
+
 Functions
 1. load_data
 
